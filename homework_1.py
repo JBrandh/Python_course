@@ -3,7 +3,7 @@
 # 1. assign an integer to the variable x
 x=1
 # 2. assign the content of x to the variable y
-y=1
+y=x
 # 3. increase the content of x by 13
 x=x+13
 # 4. decrease the content of y by 3
